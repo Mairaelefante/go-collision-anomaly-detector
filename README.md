@@ -1,3 +1,11 @@
+![Collision Anomaly Detector](cover.svg)
+
+> **Anomaly detection · Event processing**
+
+**Area:** Go Programming · [Browse project files](./)
+
+---
+
 # Go Collision Anomaly Detector
 Concurrent Go REST service that ingests synthetic collision events and flags unusual signatures using a transparent multivariate z-score model.
 
